@@ -29,10 +29,9 @@ The project follows a layered approach:
 3. Update appsettings.json with your database connection
 
 4. Apply database migrations:
-
 dotnet ef database update
-5. Run the API:
 
+5. Run the API:
 dotnet run
 
 ## Available Endpoints
