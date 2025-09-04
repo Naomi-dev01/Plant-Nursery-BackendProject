@@ -23,7 +23,7 @@ The project follows a layered approach:
 ## Installation and Running
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/Naomi-dev01/Plant-nursery-BackendProject.git
 2. Open the solution in Visual Studio
 
 3. Update appsettings.json with your database connection
