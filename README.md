@@ -24,18 +24,18 @@ The project follows a layered approach:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/username/project-name.git
-Open the solution in Visual Studio
+2. Open the solution in Visual Studio
 
-Update appsettings.json with your database connection
+3. Update appsettings.json with your database connection
 
-Apply database migrations:
+4. Apply database migrations:
 
 dotnet ef database update
-Run the API:
+5. Run the API:
 
 dotnet run
 
-Available Endpoints
+## Available Endpoints
 Users
 POST /api/users/register – Register a new user
 
@@ -52,7 +52,7 @@ GET /api/orders/{userId} – Get all orders for a specific user
 
 All endpoints return JSON responses.
 
-Future Improvements
+## Future Improvements
 -Add authentication and authorization using JWT
 
 -Integrate chatbot and AI agents
