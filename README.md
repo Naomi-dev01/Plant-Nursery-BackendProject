@@ -29,7 +29,7 @@ The project follows a layered approach:
 3. Update appsettings.json with your database connection
 
 4. Apply database migrations:
-dotnet ef database update
+dotnet of database update
 
 5. Run the API:
 dotnet run
